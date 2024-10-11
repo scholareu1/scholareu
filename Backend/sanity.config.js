@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'ScholarEU',
 
-  projectId: 'fvjzmhh9',
+  projectId: '0xt3auma',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],

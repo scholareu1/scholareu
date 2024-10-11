@@ -108,7 +108,7 @@ const Scholarships = () => {
                 onClick={() => openModal(scholarship)}
                 className="scholarship-details-button"
               >
-                More Details
+                More Detailsf
               </button>
             </div>
           ))

@@ -53,7 +53,7 @@ export default {
         list: [
           { title: 'Undergraduate', value: 'undergraduate' },
           { title: 'Postgraduate', value: 'postgraduate' },
-          { title: 'PhD', value: 'phd' },
+          { title: 'Fellowship', value: 'Fellowship' },
         ],
       },
     },
